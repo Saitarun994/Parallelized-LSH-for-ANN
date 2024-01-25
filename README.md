@@ -3,10 +3,7 @@
 </h1> 
 
 # Parallelized Locality sensitive hashing for Fast approximate nearest neighbor search
-
-A custom UDP protocol that offers the reliability of TCP but the speed of UDP , thus combining the best of both worlds.
-Uses the three way handshake and syn/ack features of TCP connection for security/reliability and the light weight udp packets
-for high speed packet transfer.
+A Parallelized implementation of locality sensitive hashing for super fast query matching using C++ , capable of cross matching a million queries under 2 mins with 95% accuracy
 
 ## 🔑 Key Feature
 - Transfers any file (audio/video/image) from one PC to another in a fast and secure manner 
