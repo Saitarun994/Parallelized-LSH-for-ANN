@@ -14,7 +14,7 @@ A Parallelized implementation of locality sensitive hashing for super fast query
 C++ , parallel computing, multi-threading , approximate nearest neighbor search , Fast search algorithm
 
 ## 📖 Libraries Used
-Standard C++
+Standard C++ & Open MP for parallel computing
 
 ## 📃 Lessons Learnt
 
