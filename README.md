@@ -16,6 +16,10 @@ C++ , parallel computing, multi-threading , approximate nearest neighbor search 
 ## 📖 Libraries Used
 Standard C++ & Open MP for parallel computing
 
+<h1 align="center">
+<img src="media/Topics.jpeg" style="width: 100%; height: 100%;">
+</h1> 
+
 ## 📃 Lessons Learnt
 
 - Parallel computing
